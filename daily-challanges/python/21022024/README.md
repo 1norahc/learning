@@ -16,7 +16,7 @@ Możesz również zaimplementować dodatkowe funkcjonalności, takie jak:
 To zadanie wymaga implementacji algorytmów obliczania podobieństwa użytkowników oraz algorytmów rekomendacji. Możesz wykorzystać biblioteki takie jak NumPy do obliczeń numerycznych, pandas do manipulacji danymi, a także scikit-learn lub inne biblioteki do uczenia maszynowego w celu zastosowania bardziej zaawansowanych technik.
 
 ## Matematyka
-![matematyka](/img/cosine_similarity.png)
+![matematyka](daily-challanges/python/21022024/img/cosine_similarity.png)
 
 ### AD. 1 Zbieranie danych
 
