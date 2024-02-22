@@ -1,38 +1,62 @@
 {
     "Marek": {
-        "Diuna": 3,
+        "Władca pierścieni": 1,
         "Arielka": 5,
-        "Pan kleks": 4
+        "Szybcy i wściekli 3": 1,
+        "Myszka Miki": 2,
+        "Pan Kleks": 2,
+        "Diuna": 5,
+        "Iron Man": 2,
+        "Avengers: czas ultrona": 3
     },
     "Arek": {
-        "Myszka mikki": 2,
-        "Szybcy i w\u015bciekli 3": 5,
-        "Avengers: czas ultrona": 2,
-        "W\u0142adca pier\u015bcieni": 1,
-        "Arielka": 5
+        "Władca pierścieni": 2,
+        "Arielka": 5,
+        "Szybcy i wściekli 3": 4,
+        "Myszka Miki": 3,
+        "Pan Kleks": 2,
+        "Diuna": 5,
+        "Iron Man": 4,
+        "Avengers: czas ultrona": 3
     },
     "Kasia": {
-        "Myszka mikki": 5,
-        "Pan kleks": 3,
-        "Arielka": 4
+        "Władca pierścieni": 4,
+        "Arielka": 2,
+        "Szybcy i wściekli 3": 1,
+        "Myszka Miki": 5,
+        "Pan Kleks": 3,
+        "Diuna": 2,
+        "Iron Man": 4,
+        "Avengers: czas ultrona": 4
     },
     "Wojtek": {
-        "Szybcy i w\u015bciekli 3": 3,
-        "W\u0142adca pier\u015bcieni": 3,
+        "Władca pierścieni": 5,
         "Arielka": 3,
-        "Pan kleks": 5,
-        "Diuna": 1
+        "Szybcy i wściekli 3": 1,
+        "Myszka Miki": 5,
+        "Pan Kleks": 1,
+        "Diuna": 1,
+        "Iron Man": 2,
+        "Avengers: czas ultrona": 2
     },
     "Kuba": {
-        "Pan kleks": 4,
-        "Diuna": 2,
-        "Szybcy i w\u015bciekli 3": 5,
-        "W\u0142adca pier\u015bcieni": 2
+        "Władca pierścieni": 3,
+        "Arielka": 2,
+        "Szybcy i wściekli 3": 4,
+        "Myszka Miki": 4,
+        "Pan Kleks": 5,
+        "Diuna": 5,
+        "Iron Man": 2,
+        "Avengers: czas ultrona": 1
     },
     "Aneta": {
-        "Iron man": 4,
-        "W\u0142adca pier\u015bcieni": 2,
-        "Myszka mikki": 4,
-        "Pan kleks": 5
+        "Władca pierścieni": 1,
+        "Arielka": 2,
+        "Szybcy i wściekli 3": 3,
+        "Myszka Miki": 2,
+        "Pan Kleks": 3,
+        "Diuna": 3,
+        "Iron Man": 5,
+        "Avengers: czas ultrona": 1
     }
 }

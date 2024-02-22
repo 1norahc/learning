@@ -30,8 +30,8 @@ fRate = [
 def _initFakeUsers():
     for user in fUsers:
         z = Collection(user)
-        for i in range(5):
-            z.add_rating(random.choice(fMovies), random.choice(fRate))
+        for i in range(len(fMovies)):
+            z.add_rating(fMovies[i], random.choice(fRate))
             
 if __name__ == "__main__":
     for _ in range(5): 
