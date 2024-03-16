@@ -1,4 +1,4 @@
-# System rekomendacyjny filmówśśś
+# System rekomendacyjny filmów
 
 Napisz program w języku Python, który będzie działał jako prosty system rekomendacyjny filmów na podstawie ocen użytkowników. System powinien składać się z następujących kroków:
 
