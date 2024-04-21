@@ -1,0 +1,10 @@
+Napisz program w Javie, który będzie analizował podany tekst i wykona następujące operacje:
+
+    1. Obliczy liczbę słów w tekście.
+    2. Znajdzie najdłuższe i najkrótsze słowo w tekście.
+    3. Sprawdzi, czy tekst zawiera określone słowo (np. "Java") i wyświetli informację o jego wystąpieniu.
+    4. Zamieni wszystkie litery w tekście na małe litery.
+    5. Zliczy ilość wystąpień każdej litery w tekście.
+    
+Podpowiedź: Użyj pętli do iteracji po tekście, instrukcji warunkowych do sprawdzania warunków oraz metod dostępnych w klasie String do operacji na napisach.
+Tekst może być podany w dowolny sposób: w Stringu, zaczyt ze Scannera itp.
